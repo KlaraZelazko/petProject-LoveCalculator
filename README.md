@@ -32,7 +32,7 @@ Generates a random “love compatibility” percentage between two names with a 
 - Working with user input values  
 - Conditional logic  
 - Random number generation (`Math.random`)  
-- Creating animations with `setInterval`)  
+- Creating animations with (`setInterval`)  
 - Updating UI dynamically
 
 
