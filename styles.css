@@ -16,6 +16,7 @@ body{
     margin: 0 auto;
     margin-top: 50px;
     border-radius: 10px;
+     backdrop-filter: blur(10px);
 }
 #calculate{
     width: 150px;
@@ -26,4 +27,13 @@ body{
     font-size: 20px;
     border: none;
     border-radius: 10px;
+}
+#calculate:hover {
+    background-color: hotpink;
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+#result-percentage{
+    font-size: 50px;
 }
