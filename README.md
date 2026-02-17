@@ -1,4 +1,4 @@
-# 💘 Love Calculator (Self-Taught Project)
+# Love Calculator (Self-Taught Project)
 
 Learning project based on a YouTube tutorial.  
 I followed the tutorial to understand the basics, then enhanced the project independently by adding animations, custom messages, and styling.
